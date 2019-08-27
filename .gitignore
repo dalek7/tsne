@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+./out
+result_supervised/
+result*/
+
+
 # Distribution / packaging
 .Python
 build/
